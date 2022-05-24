@@ -1,0 +1,1377 @@
+Object,Property,Value
+aapl,Change %,2.26
+aapl,Last trading price,343.26
+aapl,Open price,335.95
+aapl,Change $,7.59
+aapl,Volume,15447286.0
+aapl,Today's high,343.5
+aapl,Today's low,334.2
+aapl,Previous close,335.67
+aapl,52wk High,364.9
+aapl,52wk Low,235.56
+aapl,Shares Outstanding,924755000.0
+aapl,Market cap,317431401300.0
+aapl,EPS,20.98
+adbe,Change %,0.25
+adbe,Last trading price,31.53
+adbe,Open price,31.33
+adbe,Change $,0.08
+adbe,Volume,4107435.0
+adbe,Today's high,31.65
+adbe,Today's low,31.24
+adbe,Previous close,31.45
+adbe,52wk High,35.99
+adbe,52wk Low,25.45
+adbe,Shares Outstanding,504459000.0
+adbe,Market cap,15905592270.0
+adbe,EPS,1.88
+adp,Change %,2.3
+adp,Last trading price,53.89
+adp,Open price,52.56
+adp,Change $,1.21
+adp,Volume,2951543.0
+adp,Today's high,53.99
+adp,Today's low,52.48
+adp,Previous close,52.68
+adp,52wk High,55.12
+adp,52wk Low,38.41
+adp,Shares Outstanding,499705000.0
+adp,Market cap,26929102450.0
+adp,Yield,2.73
+adp,Dividend,1.44
+adp,EPS,2.45
+adsk,Change %,0.26
+adsk,Last trading price,38.7
+adsk,Open price,38.6
+adsk,Change $,0.1
+adsk,Volume,3268365.0
+adsk,Today's high,38.89
+adsk,Today's low,38.44
+adsk,Previous close,38.6
+adsk,52wk High,46.15
+adsk,52wk Low,23.64
+adsk,Shares Outstanding,229803000.0
+adsk,Market cap,8893376100.0
+adsk,EPS,1.03
+akam,Change %,0.06
+akam,Last trading price,31.49
+akam,Open price,31.37
+akam,Change $,0.02
+akam,Volume,5000537.0
+akam,Today's high,31.65
+akam,Today's low,30.98
+akam,Previous close,31.47
+akam,52wk High,54.65
+akam,52wk Low,28.69
+akam,Shares Outstanding,186707000.0
+akam,Market cap,5879403430.0
+akam,EPS,0.94
+altr,Change %,2.55
+altr,Last trading price,47.53
+altr,Open price,46.44
+altr,Change $,1.18
+altr,Volume,3756676.0
+altr,Today's high,47.75
+altr,Today's low,46.2
+altr,Previous close,46.35
+altr,52wk High,49.59
+altr,52wk Low,24.2
+altr,Shares Outstanding,322224000.0
+altr,Market cap,15315306720.0
+altr,Yield,0.52
+altr,Dividend,0.24
+altr,EPS,2.67
+alxn,Change %,1.02
+alxn,Last trading price,47.51
+alxn,Open price,46.91
+alxn,Change $,0.48
+alxn,Volume,841901.0
+alxn,Today's high,47.51
+alxn,Today's low,46.91
+alxn,Previous close,47.03
+alxn,52wk High,52.5
+alxn,52wk Low,24.305
+alxn,Shares Outstanding,183835000.0
+alxn,Market cap,8734000850.0
+alxn,EPS,0.55
+amat,Change %,2.15
+amat,Last trading price,13.29
+amat,Open price,13.01
+amat,Change $,0.28
+amat,Volume,11620332.0
+amat,Today's high,13.31
+amat,Today's low,12.88
+amat,Previous close,13.01
+amat,52wk High,16.93
+amat,52wk Low,10.27
+amat,Shares Outstanding,1318250000.0
+amat,Market cap,17519542500.0
+amat,Yield,2.46
+amat,Dividend,0.32
+amat,EPS,1.19
+amgn,Change %,0.12
+amgn,Last trading price,58.28
+amgn,Open price,58.44
+amgn,Change $,0.07
+amgn,Volume,5227063.0
+amgn,Today's high,58.44
+amgn,Today's low,57.89
+amgn,Previous close,58.35
+amgn,52wk High,61.53
+amgn,52wk Low,50.26
+amgn,Shares Outstanding,929731000.0
+amgn,Market cap,54184722680.0
+amgn,EPS,4.81
+amzn,Change %,2.45
+amzn,Last trading price,209.49
+amzn,Open price,205.55
+amzn,Change $,5.0
+amzn,Volume,3978982.0
+amzn,Today's high,210.27
+amzn,Today's low,203.61
+amzn,Previous close,204.49
+amzn,52wk High,206.39
+amzn,52wk Low,105.8
+amzn,Shares Outstanding,452043000.0
+amzn,Market cap,94698488070.0
+amzn,EPS,2.31
+apol,Change %,6.36
+apol,Last trading price,46.46
+apol,Open price,45.98
+apol,Change $,2.78
+apol,Volume,6387831.0
+apol,Today's high,47.72
+apol,Today's low,45.62
+apol,Previous close,43.68
+apol,52wk High,53.61
+apol,52wk Low,33.75
+apol,Shares Outstanding,141128000.0
+apol,Market cap,6556806880.0
+apol,EPS,2.95
+atvi,Change %,1.37
+atvi,Last trading price,11.84
+atvi,Open price,11.71
+atvi,Change $,0.16
+atvi,Volume,3428756.0
+atvi,Today's high,11.88
+atvi,Today's low,11.64
+atvi,Previous close,11.68
+atvi,52wk High,12.65
+atvi,52wk Low,10.32
+atvi,Shares Outstanding,1144165000.0
+atvi,Market cap,13546913600.0
+atvi,EPS,0.43
+bbby,Change %,1.75
+bbby,Last trading price,59.39
+bbby,Open price,58.48
+bbby,Change $,1.02
+bbby,Volume,2185264.0
+bbby,Today's high,59.525
+bbby,Today's low,58.4
+bbby,Previous close,58.37
+bbby,52wk High,58.62
+bbby,52wk Low,35.55
+bbby,Shares Outstanding,249128000.0
+bbby,Market cap,14795711920.0
+bbby,EPS,3.28
+bidu,Change %,2.3
+bidu,Last trading price,143.346
+bidu,Open price,139.44
+bidu,Change $,3.216
+bidu,Volume,7198371.0
+bidu,Today's high,143.35
+bidu,Today's low,138.9
+bidu,Previous close,140.13
+bidu,52wk High,156.04
+bidu,52wk Low,65.9
+bidu,Shares Outstanding,270768000.0
+bidu,Market cap,38813509728.0
+bidu,EPS,1.77
+biib,Change %,1.48
+biib,Last trading price,108.5
+biib,Open price,107.35
+biib,Change $,1.58
+biib,Volume,1669257.0
+biib,Today's high,108.64
+biib,Today's low,106.92
+biib,Previous close,106.92
+biib,52wk High,109.63
+biib,52wk Low,46.15
+biib,Shares Outstanding,241632000.0
+biib,Market cap,26217072000.0
+biib,EPS,4.36
+bmc,Change %,1.99
+bmc,Last trading price,55.79
+bmc,Open price,54.84
+bmc,Change $,1.09
+bmc,Volume,2300895.0
+bmc,Today's high,56.1
+bmc,Today's low,54.8
+bmc,Previous close,54.7
+bmc,52wk High,56.16
+bmc,52wk Low,34.24
+bmc,Shares Outstanding,176858000.0
+bmc,Market cap,9866907820.0
+bmc,EPS,2.47
+brcm,Change %,2.29
+brcm,Last trading price,34.41
+brcm,Open price,33.82
+brcm,Change $,0.77
+brcm,Volume,6380973.0
+brcm,Today's high,34.7
+brcm,Today's low,33.59
+brcm,Previous close,33.64
+brcm,52wk High,47.39
+brcm,52wk Low,29.9
+brcm,Shares Outstanding,482600000.0
+brcm,Market cap,16606266000.0
+brcm,Yield,1.07
+brcm,Dividend,0.36
+brcm,EPS,1.99
+ca,Change %,1.44
+ca,Last trading price,23.17
+ca,Open price,22.87
+ca,Change $,0.33
+ca,Volume,3177246.0
+ca,Today's high,23.18
+ca,Today's low,22.77
+ca,Previous close,22.84
+ca,52wk High,25.68
+ca,52wk Low,17.7
+ca,Shares Outstanding,506108000.0
+ca,Market cap,11726522360.0
+ca,Yield,0.88
+ca,Dividend,0.2
+ca,EPS,1.61
+celg,Change %,0.93
+celg,Last trading price,60.88
+celg,Open price,60.75
+celg,Change $,0.56
+celg,Volume,2460853.0
+celg,Today's high,60.97
+celg,Today's low,60.17
+celg,Previous close,60.32
+celg,52wk High,63.46
+celg,52wk Low,48.02
+celg,Shares Outstanding,462801000.0
+celg,Market cap,28175324880.0
+celg,EPS,1.92
+cern,Change %,2.34
+cern,Last trading price,62.54
+cern,Open price,61.36
+cern,Change $,1.43
+cern,Volume,949101.0
+cern,Today's high,62.59
+cern,Today's low,60.82
+cern,Previous close,61.11
+cern,52wk High,62.955
+cern,52wk Low,36.025
+cern,Shares Outstanding,168212000.0
+cern,Market cap,10519978480.0
+cern,EPS,1.46
+chkp,Change %,0.18
+chkp,Last trading price,56.75
+chkp,Open price,56.64
+chkp,Change $,0.1
+chkp,Volume,1521553.0
+chkp,Today's high,56.89
+chkp,Today's low,56.25
+chkp,Previous close,56.85
+chkp,52wk High,56.923
+chkp,52wk Low,28.82
+chkp,Shares Outstanding,207589000.0
+chkp,Market cap,11780675750.0
+chkp,EPS,2.23
+chrw,Change %,2.26
+chrw,Last trading price,80.62
+chrw,Open price,79.1
+chrw,Change $,1.78
+chrw,Volume,971143.0
+chrw,Today's high,80.99
+chrw,Today's low,78.8426
+chrw,Previous close,78.84
+chrw,52wk High,82.05
+chrw,52wk Low,54.5
+chrw,Shares Outstanding,165564000.0
+chrw,Market cap,13347769680.0
+chrw,Yield,1.47
+chrw,Dividend,1.16
+chrw,EPS,2.42
+cmcsa,Change %,1.99
+cmcsa,Last trading price,25.73
+cmcsa,Open price,25.3
+cmcsa,Change $,0.5025
+cmcsa,Volume,11607337.0
+cmcsa,Today's high,25.79
+cmcsa,Today's low,25.17
+cmcsa,Previous close,25.2275
+cmcsa,52wk High,27.16
+cmcsa,52wk Low,16.76
+cmcsa,Shares Outstanding,2084368000.0
+cmcsa,Market cap,53630788640.0
+cmcsa,Yield,1.78
+cmcsa,Dividend,0.45
+cmcsa,EPS,1.32
+cost,Change %,0.37
+cost,Last trading price,81.54
+cost,Open price,81.5
+cost,Change $,0.3
+cost,Volume,2073601.0
+cost,Today's high,81.7
+cost,Today's low,81.04
+cost,Previous close,81.24
+cost,52wk High,83.95
+cost,52wk Low,53.41
+cost,Shares Outstanding,436860000.0
+cost,Market cap,35621564400.0
+cost,Yield,1.18
+cost,Dividend,0.96
+cost,EPS,3.2
+csco,Change %,1.6
+csco,Last trading price,15.86
+csco,Open price,15.65
+csco,Change $,0.25
+csco,Volume,56482911.0
+csco,Today's high,15.95
+csco,Today's low,15.6
+csco,Previous close,15.61
+csco,52wk High,26.0
+csco,52wk Low,14.78
+csco,Shares Outstanding,5500185000.0
+csco,Market cap,87232934100.0
+csco,EPS,1.27
+ctrp,Change %,2.25
+ctrp,Last trading price,44.05
+ctrp,Open price,43.24
+ctrp,Change $,0.97
+ctrp,Volume,1345909.0
+ctrp,Today's high,44.17
+ctrp,Today's low,42.68
+ctrp,Previous close,43.08
+ctrp,52wk High,53.16
+ctrp,52wk Low,31.35
+ctrp,Shares Outstanding,143564000.0
+ctrp,Market cap,6323994200.0
+ctrp,EPS,1.08
+ctsh,Change %,1.99
+ctsh,Last trading price,74.8
+ctsh,Open price,73.48
+ctsh,Change $,1.46
+ctsh,Volume,2153733.0
+ctsh,Today's high,74.8596
+ctsh,Today's low,73.1201
+ctsh,Previous close,73.34
+ctsh,52wk High,83.48
+ctsh,52wk Low,48.98
+ctsh,Shares Outstanding,304250000.0
+ctsh,Market cap,22757900000.0
+ctsh,EPS,2.55
+ctxs,Change %,0.98
+ctxs,Last trading price,80.78
+ctxs,Open price,80.31
+ctxs,Change $,0.78
+ctxs,Volume,1659407.0
+ctxs,Today's high,81.32
+ctxs,Today's low,79.97
+ctxs,Previous close,80.0
+ctxs,52wk High,88.4895
+ctxs,52wk Low,41.62
+ctxs,Shares Outstanding,187995000.0
+ctxs,Market cap,15186236100.0
+ctxs,EPS,1.58
+dell,Change %,1.86
+dell,Last trading price,16.98
+dell,Open price,16.7
+dell,Change $,0.31
+dell,Volume,13649145.0
+dell,Today's high,17.0
+dell,Today's low,16.6
+dell,Previous close,16.67
+dell,52wk High,16.96
+dell,52wk Low,11.34
+dell,Shares Outstanding,1887170000.0
+dell,Market cap,32044146600.0
+dell,EPS,1.67
+dltr,Change %,2.42
+dltr,Last trading price,68.23
+dltr,Open price,67.02
+dltr,Change $,1.61
+dltr,Volume,934370.0
+dltr,Today's high,68.5
+dltr,Today's low,66.74
+dltr,Previous close,66.62
+dltr,52wk High,67.99
+dltr,52wk Low,40.6
+dltr,Shares Outstanding,122277000.0
+dltr,Market cap,8342959710.0
+dltr,EPS,3.45
+dtv,Change %,1.85
+dtv,Last trading price,51.76
+dtv,Open price,51.11
+dtv,Change $,0.94
+dtv,Volume,3683228.0
+dtv,Today's high,51.84
+dtv,Today's low,50.78
+dtv,Previous close,50.82
+dtv,52wk High,51.23
+dtv,52wk Low,33.25
+dtv,Shares Outstanding,767785000.0
+dtv,Market cap,39740551600.0
+dtv,EPS,2.56
+ebay,Change %,1.46
+ebay,Last trading price,32.74
+ebay,Open price,32.22
+ebay,Change $,0.47
+ebay,Volume,12847872.0
+ebay,Today's high,32.8
+ebay,Today's low,31.99
+ebay,Previous close,32.27
+ebay,52wk High,35.35
+ebay,52wk Low,19.06
+ebay,Shares Outstanding,1297899000.0
+ebay,Market cap,42493213260.0
+ebay,EPS,1.42
+erts,Change %,2.5
+erts,Last trading price,24.19
+erts,Open price,23.57
+erts,Change $,0.59
+erts,Volume,4768735.0
+erts,Today's high,24.2
+erts,Today's low,23.4
+erts,Previous close,23.6
+erts,52wk High,24.79
+erts,52wk Low,14.06
+erts,Shares Outstanding,332448000.0
+erts,Market cap,8041917120.0
+erts,EPS,0.84
+esrx,Change %,0.04
+esrx,Last trading price,53.96
+esrx,Open price,54.08
+esrx,Change $,0.02
+esrx,Volume,6187177.0
+esrx,Today's high,54.35
+esrx,Today's low,53.78
+esrx,Previous close,53.98
+esrx,52wk High,60.89
+esrx,52wk Low,41.55
+esrx,Shares Outstanding,529454000.0
+esrx,Market cap,28569337840.0
+esrx,EPS,2.32
+expd,Change %,2.42
+expd,Last trading price,52.43
+expd,Open price,51.21
+expd,Change $,1.24
+expd,Volume,1128328.0
+expd,Today's high,52.49
+expd,Today's low,51.19
+expd,Previous close,51.19
+expd,52wk High,57.15
+expd,52wk Low,33.65
+expd,Shares Outstanding,212370000.0
+expd,Market cap,11134559100.0
+expd,Yield,0.98
+expd,Dividend,0.5
+expd,EPS,1.73
+expe,Change %,1.9
+expe,Last trading price,29.54
+expe,Open price,28.96
+expe,Change $,0.55
+expe,Volume,2251336.0
+expe,Today's high,29.63
+expe,Today's low,28.89
+expe,Previous close,28.99
+expe,52wk High,29.85
+expe,52wk Low,18.3
+expe,Shares Outstanding,247777000.0
+expe,Market cap,7319332580.0
+expe,Yield,0.97
+expe,Dividend,0.28
+expe,EPS,1.46
+fast,Change %,1.83
+fast,Last trading price,36.65
+fast,Open price,36.04
+fast,Change $,0.66
+fast,Volume,2930250.0
+fast,Today's high,36.71
+fast,Today's low,36.0
+fast,Previous close,35.99
+fast,52wk High,36.42
+fast,52wk Low,22.32
+fast,Shares Outstanding,294861000.0
+fast,Market cap,10806655650.0
+fast,EPS,1.03
+ffiv,Change %,2.64
+ffiv,Last trading price,113.16
+ffiv,Open price,110.83
+ffiv,Change $,2.91
+ffiv,Volume,1425728.0
+ffiv,Today's high,113.33
+ffiv,Today's low,110.13
+ffiv,Previous close,110.25
+ffiv,52wk High,145.76
+ffiv,52wk Low,66.79
+ffiv,Shares Outstanding,81111000.0
+ffiv,Market cap,9178520760.0
+ffiv,EPS,2.45
+fisv,Change %,1.78
+fisv,Last trading price,63.745
+fisv,Open price,62.77
+fisv,Change $,1.115
+fisv,Volume,717087.0
+fisv,Today's high,64.0
+fisv,Today's low,62.38
+fisv,Previous close,62.63
+fisv,52wk High,64.89
+fisv,52wk Low,44.85
+fisv,Shares Outstanding,143611000.0
+fisv,Market cap,9154483195.0
+fisv,EPS,3.24
+flex,Change %,2.8
+flex,Last trading price,6.6
+flex,Open price,6.45
+flex,Change $,0.18
+flex,Volume,3868464.0
+flex,Today's high,6.61
+flex,Today's low,6.42
+flex,Previous close,6.42
+flex,52wk High,8.5
+flex,52wk Low,4.86
+flex,Shares Outstanding,758009000.0
+flex,Market cap,5002859400.0
+flex,EPS,0.75
+flir,Change %,1.45
+flir,Last trading price,34.2
+flir,Open price,33.58
+flir,Change $,0.49
+flir,Volume,1056852.0
+flir,Today's high,34.28
+flir,Today's low,33.34
+flir,Previous close,33.71
+flir,52wk High,37.29
+flir,52wk Low,24.0
+flir,Shares Outstanding,159683000.0
+flir,Market cap,5461158600.0
+flir,Yield,0.71
+flir,Dividend,0.24
+flir,EPS,1.51
+fslr,Change %,0.6
+fslr,Last trading price,133.06
+fslr,Open price,130.66
+fslr,Change $,0.79
+fslr,Volume,1735871.0
+fslr,Today's high,133.48
+fslr,Today's low,129.1109
+fslr,Previous close,132.27
+fslr,52wk High,175.449
+fslr,52wk Low,111.4
+fslr,Shares Outstanding,86161000.0
+fslr,Market cap,11464582660.0
+fslr,EPS,7.01
+gild,Change %,1.3
+gild,Last trading price,41.95
+gild,Open price,41.44
+gild,Change $,0.54
+gild,Volume,6135825.0
+gild,Today's high,41.97
+gild,Today's low,41.38
+gild,Previous close,41.41
+gild,52wk High,42.93
+gild,52wk Low,31.73
+gild,Shares Outstanding,787054000.0
+gild,Market cap,33016915300.0
+gild,EPS,3.18
+gmcr,Change %,1.22
+gmcr,Last trading price,90.35
+gmcr,Open price,89.61
+gmcr,Change $,1.09
+gmcr,Volume,1174196.0
+gmcr,Today's high,90.94
+gmcr,Today's low,89.16
+gmcr,Previous close,89.26
+gmcr,52wk High,90.01
+gmcr,52wk Low,24.84
+gmcr,Shares Outstanding,152785000.0
+gmcr,Market cap,13804124750.0
+gmcr,EPS,0.79
+goog,Change %,2.89
+goog,Last trading price,521.028
+goog,Open price,506.74
+goog,Change $,14.648
+goog,Volume,3594065.0
+goog,Today's high,521.18
+goog,Today's low,506.38
+goog,Previous close,506.38
+goog,52wk High,642.96
+goog,52wk Low,433.63
+goog,Shares Outstanding,252993000.0
+goog,Market cap,131816436804.0
+goog,EPS,27.28
+grmn,Change %,1.67
+grmn,Last trading price,33.58
+grmn,Open price,33.12
+grmn,Change $,0.55
+grmn,Volume,1253241.0
+grmn,Today's high,33.72
+grmn,Today's low,33.05
+grmn,Previous close,33.03
+grmn,52wk High,36.42
+grmn,52wk Low,26.11
+grmn,Shares Outstanding,208077000.0
+grmn,Market cap,6987225660.0
+grmn,Yield,4.54
+grmn,Dividend,1.501
+grmn,EPS,3.27
+hpq,Change %,1.77
+hpq,Last trading price,37.045
+hpq,Change $,0.645
+hpq,Volume,13515262.0
+hpq,Today's high,37.13
+hpq,Today's low,36.34
+hpq,Previous close,36.4
+hpq,52wk High,49.39
+hpq,52wk Low,33.95
+hpq,Shares Outstanding,2074156000.0
+hpq,Market cap,76837109020.0
+hpq,Yield,1.32
+hpq,Dividend,0.48
+hpq,EPS,4.07
+hsic,Change %,1.89
+hsic,Last trading price,72.94
+hsic,Open price,71.73
+hsic,Change $,1.35
+hsic,Volume,388970.0
+hsic,Today's high,73.01
+hsic,Today's low,71.28
+hsic,Previous close,71.59
+hsic,52wk High,74.48
+hsic,52wk Low,50.96
+hsic,Shares Outstanding,92252000.0
+hsic,Market cap,6728860880.0
+hsic,EPS,3.66
+ilmn,Change %,1.14
+ilmn,Last trading price,76.01
+ilmn,Open price,75.16
+ilmn,Change $,0.86
+ilmn,Volume,1127564.0
+ilmn,Today's high,76.39
+ilmn,Today's low,74.85
+ilmn,Previous close,75.15
+ilmn,52wk High,76.81
+ilmn,52wk Low,41.155
+ilmn,Shares Outstanding,123132000.0
+ilmn,Market cap,9359263320.0
+ilmn,EPS,0.86
+infy,Change %,1.29
+infy,Last trading price,66.07
+infy,Open price,65.6
+infy,Change $,0.84
+infy,Volume,1123894.0
+infy,Today's high,66.14
+infy,Today's low,65.26
+infy,Previous close,65.23
+infy,52wk High,77.92
+infy,52wk Low,56.73
+infy,Shares Outstanding,571318000.0
+infy,Market cap,37746980260.0
+infy,EPS,2.61
+intc,Change %,1.67
+intc,Last trading price,22.53
+intc,Open price,22.25
+intc,Change $,0.37
+intc,Volume,35364863.0
+intc,Today's high,22.58
+intc,Today's low,22.1
+intc,Previous close,22.16
+intc,52wk High,23.96
+intc,52wk Low,17.6
+intc,Shares Outstanding,5302000000.0
+intc,Market cap,119454060000.0
+intc,Yield,3.27
+intc,Dividend,0.7248
+intc,EPS,2.18
+intu,Change %,0.73
+intu,Last trading price,52.24
+intu,Open price,51.97
+intu,Change $,0.38
+intu,Volume,1561430.0
+intu,Today's high,52.37
+intu,Today's low,51.63
+intu,Previous close,51.86
+intu,52wk High,56.46
+intu,52wk Low,34.0
+intu,Shares Outstanding,302581000.0
+intu,Market cap,15806831440.0
+intu,EPS,2.06
+isrg,Change %,1.76
+isrg,Last trading price,378.65
+isrg,Open price,373.25
+isrg,Change $,6.54
+isrg,Volume,228489.0
+isrg,Today's high,379.4
+isrg,Today's low,371.44
+isrg,Previous close,372.11
+isrg,52wk High,377.84
+isrg,52wk Low,246.05
+isrg,Shares Outstanding,39288000.0
+isrg,Market cap,14876401200.0
+isrg,EPS,9.94
+joyg,Change %,1.99
+joyg,Last trading price,97.14
+joyg,Open price,94.68
+joyg,Change $,1.9
+joyg,Volume,1967331.0
+joyg,Today's high,97.53
+joyg,Today's low,93.69
+joyg,Previous close,95.24
+joyg,52wk High,103.44
+joyg,52wk Low,48.05
+joyg,Shares Outstanding,104787000.0
+joyg,Market cap,10179009180.0
+joyg,Yield,0.73
+joyg,Dividend,0.7
+joyg,EPS,5.0
+klac,Change %,2.4
+klac,Last trading price,41.45
+klac,Open price,40.53
+klac,Change $,0.97
+klac,Volume,1731795.0
+klac,Today's high,41.631
+klac,Today's low,40.21
+klac,Previous close,40.48
+klac,52wk High,51.83
+klac,52wk Low,26.69
+klac,Shares Outstanding,167903000.0
+klac,Market cap,6959579350.0
+klac,Yield,2.47
+klac,Dividend,1.0
+klac,EPS,3.88
+life,Change %,0.5
+life,Last trading price,52.33
+life,Open price,52.24
+life,Change $,0.26
+life,Volume,2310985.0
+life,Today's high,52.61
+life,Today's low,51.83
+life,Previous close,52.07
+life,52wk High,57.25
+life,52wk Low,41.1
+life,Shares Outstanding,178766000.0
+life,Market cap,9354824780.0
+life,EPS,2.01
+linta,Change %,2.5
+linta,Last trading price,17.19
+linta,Open price,16.78
+linta,Change $,0.42
+linta,Volume,3342206.0
+linta,Today's high,17.24
+linta,Today's low,16.7
+linta,Previous close,16.77
+linta,52wk High,18.645
+linta,52wk Low,10.075
+linta,Shares Outstanding,572144000.0
+linta,Market cap,9835155360.0
+linta,EPS,1.0
+lltc,Change %,1.24
+lltc,Last trading price,33.43
+lltc,Open price,33.09
+lltc,Change $,0.41
+lltc,Volume,2109369.0
+lltc,Today's high,33.54
+lltc,Today's low,32.97
+lltc,Previous close,33.02
+lltc,52wk High,36.14
+lltc,52wk Low,27.03
+lltc,Shares Outstanding,227734000.0
+lltc,Market cap,7613147620.0
+lltc,Yield,2.91
+lltc,Dividend,0.96
+lltc,EPS,2.36
+lrcx,Change %,2.24
+lrcx,Last trading price,45.27
+lrcx,Open price,44.32
+lrcx,Change $,0.99
+lrcx,Volume,1518071.0
+lrcx,Today's high,45.65
+lrcx,Today's low,43.8992
+lrcx,Previous close,44.28
+lrcx,52wk High,59.1
+lrcx,52wk Low,35.39
+lrcx,Shares Outstanding,124491000.0
+lrcx,Market cap,5635707570.0
+lrcx,EPS,5.88
+mat,Change %,1.82
+mat,Last trading price,27.99
+mat,Open price,27.55
+mat,Change $,0.5
+mat,Volume,2211845.0
+mat,Today's high,28.0
+mat,Today's low,27.49
+mat,Previous close,27.49
+mat,52wk High,27.73
+mat,52wk Low,20.57
+mat,Shares Outstanding,347588000.0
+mat,Market cap,9728988120.0
+mat,Yield,3.35
+mat,Dividend,0.92
+mat,EPS,1.85
+mchp,Change %,1.16
+mchp,Last trading price,38.35
+mchp,Open price,37.98
+mchp,Change $,0.44
+mchp,Volume,1383356.0
+mchp,Today's high,38.49
+mchp,Today's low,37.76
+mchp,Previous close,37.91
+mchp,52wk High,41.5
+mchp,52wk Low,27.19
+mchp,Shares Outstanding,190480000.0
+mchp,Market cap,7304908000.0
+mchp,Yield,3.65
+mchp,Dividend,1.384
+mchp,EPS,2.14
+mrvl,Change %,2.34
+mrvl,Last trading price,15.11
+mrvl,Open price,14.79
+mrvl,Change $,0.345
+mrvl,Volume,9688961.0
+mrvl,Today's high,15.2
+mrvl,Today's low,14.7
+mrvl,Previous close,14.765
+mrvl,52wk High,22.01
+mrvl,52wk Low,13.17
+mrvl,Shares Outstanding,611318000.0
+mrvl,Market cap,9237014980.0
+mrvl,EPS,1.26
+msft,Change %,0.08
+msft,Last trading price,26.02
+msft,Open price,25.95
+msft,Change $,0.02
+msft,Volume,49590671.0
+msft,Today's high,26.17
+msft,Today's low,25.84
+msft,Previous close,26.0
+msft,52wk High,29.46
+msft,52wk Low,22.73
+msft,Shares Outstanding,8432767000.0
+msft,Market cap,219420597340.0
+msft,Yield,2.46
+msft,Dividend,0.64
+msft,EPS,2.51
+mu,Change %,4.68
+mu,Last trading price,7.83
+mu,Open price,7.46
+mu,Change $,0.35
+mu,Volume,30554681.0
+mu,Today's high,7.85
+mu,Today's low,7.37
+mu,Previous close,7.48
+mu,52wk High,11.95
+mu,52wk Low,6.36
+mu,Shares Outstanding,1001471000.0
+mu,Market cap,7841517930.0
+mu,EPS,0.61
+mxim,Change %,1.29
+mxim,Last trading price,25.89
+mxim,Open price,25.56
+mxim,Change $,0.33
+mxim,Volume,1652343.0
+mxim,Today's high,26.09
+mxim,Today's low,25.48
+mxim,Previous close,25.56
+mxim,52wk High,28.44
+mxim,52wk Low,15.67
+mxim,Shares Outstanding,295368000.0
+mxim,Market cap,7647077520.0
+mxim,Yield,3.29
+mxim,Dividend,0.84
+mxim,EPS,1.39
+myl,Change %,1.22
+myl,Last trading price,24.97
+myl,Open price,24.67
+myl,Change $,0.3
+myl,Volume,4476181.0
+myl,Today's high,24.99
+myl,Today's low,24.52
+myl,Previous close,24.67
+myl,52wk High,25.46
+myl,52wk Low,16.55
+myl,Shares Outstanding,439251000.0
+myl,Market cap,10968097470.0
+myl,Yield,0.97
+myl,Dividend,0.24
+myl,EPS,0.73
+nflx,Change %,2.02
+nflx,Last trading price,267.99
+nflx,Open price,262.06
+nflx,Change $,5.3
+nflx,Volume,3983324.0
+nflx,Today's high,268.26
+nflx,Today's low,262.06
+nflx,Previous close,262.69
+nflx,52wk High,277.7
+nflx,52wk Low,95.33
+nflx,Shares Outstanding,52491000.0
+nflx,Market cap,14067063090.0
+nflx,EPS,3.48
+nihd,Change %,1.82
+nihd,Last trading price,43.15
+nihd,Open price,42.27
+nihd,Change $,0.77
+nihd,Volume,978948.0
+nihd,Today's high,43.18
+nihd,Today's low,41.97
+nihd,Previous close,42.38
+nihd,52wk High,46.32
+nihd,52wk Low,32.36
+nihd,Shares Outstanding,170197000.0
+nihd,Market cap,7344000550.0
+nihd,EPS,2.36
+ntap,Change %,2.92
+ntap,Last trading price,54.32
+ntap,Open price,53.51
+ntap,Change $,1.54
+ntap,Volume,8699525.0
+ntap,Today's high,54.57
+ntap,Today's low,53.07
+ntap,Previous close,52.78
+ntap,52wk High,61.02
+ntap,52wk Low,36.66
+ntap,Shares Outstanding,367872000.0
+ntap,Market cap,19982807040.0
+ntap,EPS,1.62
+nvda,Change %,1.32
+nvda,Last trading price,16.145
+nvda,Open price,15.94
+nvda,Change $,0.21
+nvda,Volume,13396378.0
+nvda,Today's high,16.21
+nvda,Today's low,15.62
+nvda,Previous close,15.935
+nvda,52wk High,26.17
+nvda,52wk Low,8.65
+nvda,Shares Outstanding,600288000.0
+nvda,Market cap,9691649760.0
+nvda,EPS,0.4
+nwsa,Change %,2.03
+nwsa,Last trading price,18.06
+nwsa,Open price,17.74
+nwsa,Change $,0.36
+nwsa,Volume,12861466.0
+nwsa,Today's high,18.07
+nwsa,Today's low,17.58
+nwsa,Previous close,17.7
+nwsa,52wk High,18.35
+nwsa,52wk Low,11.61
+nwsa,Shares Outstanding,1828109000.0
+nwsa,Market cap,33015648540.0
+nwsa,Yield,0.85
+nwsa,Dividend,0.15
+nwsa,EPS,1.11
+orcl,Change %,0.43
+orcl,Last trading price,33.05
+orcl,Open price,32.89
+orcl,Change $,0.14
+orcl,Volume,25214864.0
+orcl,Today's high,33.2
+orcl,Today's low,32.48
+orcl,Previous close,32.91
+orcl,52wk High,36.5
+orcl,52wk Low,21.24
+orcl,Shares Outstanding,5060516000.0
+orcl,Market cap,167250053800.0
+orcl,Yield,0.73
+orcl,Dividend,0.24
+orcl,EPS,1.67
+orly,Change %,1.07
+orly,Last trading price,66.21
+orly,Open price,65.61
+orly,Change $,0.7
+orly,Volume,1642876.0
+orly,Today's high,66.52
+orly,Today's low,65.55
+orly,Previous close,65.51
+orly,52wk High,65.63
+orly,52wk Low,45.65
+orly,Shares Outstanding,137870000.0
+orly,Market cap,9128372700.0
+orly,EPS,2.99
+payx,Change %,1.07
+payx,Last trading price,31.05
+payx,Open price,30.6
+payx,Change $,0.33
+payx,Volume,2070249.0
+payx,Today's high,31.09
+payx,Today's low,30.6
+payx,Previous close,30.72
+payx,52wk High,33.91
+payx,52wk Low,24.6519
+payx,Shares Outstanding,361850000.0
+payx,Market cap,11235442500.0
+payx,Yield,4.04
+payx,Dividend,1.24
+payx,EPS,1.42
+pcar,Change %,1.88
+pcar,Last trading price,52.05
+pcar,Open price,51.24
+pcar,Change $,0.96
+pcar,Volume,1983039.0
+pcar,Today's high,52.17
+pcar,Today's low,50.62
+pcar,Previous close,51.09
+pcar,52wk High,58.75
+pcar,52wk Low,38.6
+pcar,Shares Outstanding,365469000.0
+pcar,Market cap,19022661450.0
+pcar,Yield,0.94
+pcar,Dividend,0.48
+pcar,EPS,1.59
+pcln,Change %,2.51
+pcln,Last trading price,524.798
+pcln,Open price,513.39
+pcln,Change $,12.868
+pcln,Volume,1056407.0
+pcln,Today's high,525.24
+pcln,Today's low,510.0
+pcln,Previous close,511.93
+pcln,52wk High,561.88
+pcln,52wk Low,173.75
+pcln,Shares Outstanding,49647000.0
+pcln,Market cap,26054646306.0
+pcln,EPS,11.38
+qcom,Change %,1.92
+qcom,Last trading price,57.88
+qcom,Open price,56.79
+qcom,Change $,1.09
+qcom,Volume,12028798.0
+qcom,Today's high,57.98
+qcom,Today's low,56.44
+qcom,Previous close,56.79
+qcom,52wk High,59.84
+qcom,52wk Low,31.63
+qcom,Shares Outstanding,1669532000.0
+qcom,Market cap,96632512160.0
+qcom,Yield,1.51
+qcom,Dividend,0.86
+qcom,EPS,2.3
+qgen,Change %,0.26
+qgen,Last trading price,19.07
+qgen,Open price,19.14
+qgen,Change $,0.05
+qgen,Volume,1699768.0
+qgen,Today's high,19.18
+qgen,Today's low,19.01
+qgen,Previous close,19.02
+qgen,52wk High,22.2
+qgen,52wk Low,16.86
+qgen,Shares Outstanding,233163000.0
+qgen,Market cap,4446418410.0
+qgen,EPS,0.58
+rimm,Change %,0.28
+rimm,Last trading price,28.93
+rimm,Open price,28.72
+rimm,Change $,0.08
+rimm,Volume,12773888.0
+rimm,Today's high,29.0
+rimm,Today's low,28.45
+rimm,Previous close,28.85
+rimm,52wk High,70.54
+rimm,52wk Low,25.82
+rimm,Shares Outstanding,523869000.0
+rimm,Market cap,15155530170.0
+rimm,EPS,6.31
+rost,Change %,1.44
+rost,Last trading price,81.27
+rost,Open price,80.37
+rost,Change $,1.15
+rost,Volume,816385.0
+rost,Today's high,81.35
+rost,Today's low,79.77
+rost,Previous close,80.12
+rost,52wk High,83.11
+rost,52wk Low,48.71
+rost,Shares Outstanding,117510000.0
+rost,Market cap,9550037700.0
+rost,Yield,1.1
+rost,Dividend,0.88
+rost,EPS,4.94
+sbux,Change %,1.77
+sbux,Last trading price,40.19
+sbux,Open price,39.62
+sbux,Change $,0.7
+sbux,Volume,6416272.0
+sbux,Today's high,40.26
+sbux,Today's low,39.5
+sbux,Previous close,39.49
+sbux,52wk High,39.79
+sbux,52wk Low,22.5
+sbux,Shares Outstanding,749600000.0
+sbux,Market cap,30126424000.0
+sbux,Yield,1.32
+sbux,Dividend,0.52
+sbux,EPS,1.43
+shld,Change %,0.97
+shld,Last trading price,72.13
+shld,Open price,71.05
+shld,Change $,0.69
+shld,Volume,414172.0
+shld,Today's high,72.44
+shld,Today's low,69.65
+shld,Previous close,71.44
+shld,52wk High,94.7884
+shld,52wk Low,59.21
+shld,Shares Outstanding,107706000.0
+shld,Market cap,7768833780.0
+shld,EPS,0.48
+sial,Change %,1.17
+sial,Last trading price,74.24
+sial,Open price,73.54
+sial,Change $,0.86
+sial,Volume,673614.0
+sial,Today's high,74.265
+sial,Today's low,73.07
+sial,Previous close,73.38
+sial,52wk High,73.6
+sial,52wk Low,48.8
+sial,Shares Outstanding,121827000.0
+sial,Market cap,9044436480.0
+sial,Yield,0.98
+sial,Dividend,0.72
+sial,EPS,3.28
+sndk,Change %,3.13
+sndk,Last trading price,42.8
+sndk,Open price,41.69
+sndk,Change $,1.3
+sndk,Volume,5720157.0
+sndk,Today's high,42.92
+sndk,Today's low,41.51
+sndk,Previous close,41.5
+sndk,52wk High,53.605
+sndk,52wk Low,33.03
+sndk,Shares Outstanding,238372000.0
+sndk,Market cap,10202321600.0
+sndk,EPS,5.35
+spls,Change %,0.76
+spls,Last trading price,15.92
+spls,Open price,15.89
+spls,Change $,0.12
+spls,Volume,10818730.0
+spls,Today's high,15.98
+spls,Today's low,15.73
+spls,Previous close,15.8
+spls,52wk High,23.75
+spls,52wk Low,14.75
+spls,Shares Outstanding,713154000.0
+spls,Market cap,11353411680.0
+spls,Yield,2.53
+spls,Dividend,0.4
+spls,EPS,1.24
+srcl,Change %,2.36
+srcl,Last trading price,91.22
+srcl,Open price,89.56
+srcl,Change $,2.1
+srcl,Volume,516044.0
+srcl,Today's high,91.25
+srcl,Today's low,89.36
+srcl,Previous close,89.12
+srcl,52wk High,95.71
+srcl,52wk Low,61.02
+srcl,Shares Outstanding,85849000.0
+srcl,Market cap,7831145780.0
+srcl,EPS,2.47
+stx,Change %,1.24
+stx,Last trading price,16.36
+stx,Open price,16.18
+stx,Change $,0.2
+stx,Volume,5382998.0
+stx,Today's high,16.37
+stx,Today's low,15.95
+stx,Previous close,16.16
+stx,52wk High,18.35
+stx,52wk Low,9.84
+stx,Shares Outstanding,430085000.0
+stx,Market cap,7036190600.0
+stx,Yield,4.46
+stx,Dividend,0.72
+stx,EPS,1.59
+symc,Change %,0.56
+symc,Last trading price,19.83
+symc,Open price,19.82
+symc,Change $,0.11
+symc,Volume,6781157.0
+symc,Today's high,19.885
+symc,Today's low,19.71
+symc,Previous close,19.72
+symc,52wk High,20.5
+symc,52wk Low,12.04
+symc,Shares Outstanding,755541000.0
+symc,Market cap,14982378030.0
+symc,EPS,0.76
+teva,Change %,1.62
+teva,Last trading price,49.0
+teva,Open price,48.47
+teva,Change $,0.78
+teva,Volume,4004825.0
+teva,Today's high,49.06
+teva,Today's low,48.3
+teva,Previous close,48.22
+teva,52wk High,57.08
+teva,52wk Low,44.86
+teva,Shares Outstanding,893000000.0
+teva,Market cap,43757000000.0
+teva,Yield,1.91
+teva,Dividend,0.919196
+teva,EPS,3.72
+urbn,Change %,2.74
+urbn,Last trading price,28.92
+urbn,Open price,28.18
+urbn,Change $,0.77
+urbn,Volume,3343521.0
+urbn,Today's high,29.07
+urbn,Today's low,28.07
+urbn,Previous close,28.15
+urbn,52wk High,39.26
+urbn,52wk Low,27.96
+urbn,Shares Outstanding,162255000.0
+urbn,Market cap,4692414600.0
+urbn,EPS,1.53
+vmed,Change %,1.04
+vmed,Last trading price,30.24
+vmed,Open price,30.24
+vmed,Change $,0.31
+vmed,Volume,4867103.0
+vmed,Today's high,30.5
+vmed,Today's low,30.03
+vmed,Previous close,29.93
+vmed,52wk High,33.32
+vmed,52wk Low,16.24
+vmed,Shares Outstanding,317268000.0
+vmed,Market cap,9594184320.0
+vmed,Yield,0.53
+vmed,Dividend,0.16
+vmed,EPS,0.13
+vod,Change %,0.67
+vod,Last trading price,26.9
+vod,Open price,26.42
+vod,Change $,0.18
+vod,Volume,8993917.0
+vod,Today's high,26.96
+vod,Today's low,26.4
+vod,Previous close,26.72
+vod,52wk High,32.7
+vod,52wk Low,20.71
+vod,Shares Outstanding,5157753000.0
+vod,Market cap,138743555700.0
+vod,Yield,7.33
+vod,Dividend,1.959836
+vrsn,Change %,1.26
+vrsn,Last trading price,33.88
+vrsn,Open price,33.37
+vrsn,Change $,0.42
+vrsn,Volume,2213030.0
+vrsn,Today's high,34.07
+vrsn,Today's low,33.31
+vrsn,Previous close,33.46
+vrsn,52wk High,37.73
+vrsn,52wk Low,25.73
+vrsn,Shares Outstanding,168472000.0
+vrsn,Market cap,5707831360.0
+vrsn,EPS,4.68
+vrtx,Change %,0.56
+vrtx,Last trading price,51.7
+vrtx,Open price,51.49
+vrtx,Change $,0.29
+vrtx,Volume,1458378.0
+vrtx,Today's high,51.92
+vrtx,Today's low,51.08
+vrtx,Previous close,51.99
+vrtx,52wk High,58.87
+vrtx,52wk Low,31.25
+vrtx,Shares Outstanding,205998000.0
+vrtx,Market cap,10650096600.0
+vrtx,EPS,3.81
+wcrx,Change %,0.83
+wcrx,Last trading price,24.33
+wcrx,Open price,24.1
+wcrx,Change $,0.2
+wcrx,Volume,1277481.0
+wcrx,Today's high,24.34
+wcrx,Today's low,24.0
+wcrx,Previous close,24.13
+wcrx,52wk High,30.57
+wcrx,52wk Low,19.01
+wcrx,Shares Outstanding,253873000.0
+wcrx,Market cap,6176730090.0
+wcrx,EPS,0.65
+wfm,Change %,1.51
+wfm,Last trading price,64.41
+wfm,Open price,63.69
+wfm,Change $,0.96
+wfm,Volume,1124067.0
+wfm,Today's high,64.41
+wfm,Today's low,63.38
+wfm,Previous close,63.45
+wfm,52wk High,66.87
+wfm,52wk Low,33.96
+wfm,Shares Outstanding,175713000.0
+wfm,Market cap,11317674330.0
+wfm,Yield,0.63
+wfm,Dividend,0.4
+wfm,EPS,1.73
+wynn,Change %,4.2
+wynn,Last trading price,149.57
+wynn,Open price,144.54
+wynn,Change $,6.03
+wynn,Volume,2569107.0
+wynn,Today's high,150.53
+wynn,Today's low,143.54
+wynn,Previous close,143.54
+wynn,52wk High,151.73
+wynn,52wk Low,73.12
+wynn,Shares Outstanding,124758000.0
+wynn,Market cap,18660054060.0
+wynn,Yield,1.39
+wynn,Dividend,2.0
+wynn,EPS,2.45
+xlnx,Change %,1.6
+xlnx,Last trading price,37.055
+xlnx,Open price,36.57
+xlnx,Change $,0.585
+xlnx,Volume,3751093.0
+xlnx,Today's high,37.23
+xlnx,Today's low,36.35
+xlnx,Previous close,36.47
+xlnx,52wk High,36.6
+xlnx,52wk Low,23.96
+xlnx,Shares Outstanding,265625000.0
+xlnx,Market cap,9842734375.0
+xlnx,Yield,2.08
+xlnx,Dividend,0.76
+xlnx,EPS,2.4
+xray,Change %,1.16
+xray,Last trading price,38.52
+xray,Open price,38.19
+xray,Change $,0.44
+xray,Volume,2793472.0
+xray,Today's high,38.54
+xray,Today's low,37.92
+xray,Previous close,38.08
+xray,52wk High,40.16
+xray,52wk Low,27.76
+xray,Shares Outstanding,140775000.0
+xray,Market cap,5422653000.0
+xray,Yield,0.53
+xray,Dividend,0.2
+xray,EPS,1.88
+yhoo,Change %,2.73
+yhoo,Last trading price,15.45
+yhoo,Open price,15.07
+yhoo,Change $,0.41
+yhoo,Volume,15327483.0
+yhoo,Today's high,15.5
+yhoo,Today's low,15.02
+yhoo,Previous close,15.04
+yhoo,52wk High,18.84
+yhoo,52wk Low,12.94
+yhoo,Shares Outstanding,1302941000.0
+yhoo,Market cap,20130438450.0
+yhoo,EPS,0.85

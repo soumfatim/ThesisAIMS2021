@@ -1,0 +1,549 @@
+Object,Property,Value
+AA-1221-MCO-ORD,Scheduled departure,2011-12-01 8:00 PM
+AA-1221-MCO-ORD,Actual departure,2011-12-01 8:23 PM
+AA-1221-MCO-ORD,Departure gate,17
+AA-1221-MCO-ORD,Scheduled arrival,2011-12-01 9:45 PM
+AA-1221-MCO-ORD,Actual arrival,2011-12-01 9:53 PM
+AA-1221-MCO-ORD,Arrival gate,K7
+AA-4307-ORD-DTW,Scheduled departure,2011-12-01 6:45 PM
+AA-4307-ORD-DTW,Actual departure,2011-12-01 6:55 PM
+AA-4307-ORD-DTW,Departure gate,G19A
+AA-4307-ORD-DTW,Scheduled arrival,2011-12-01 9:10 PM
+AA-4307-ORD-DTW,Actual arrival,2011-12-01 8:53 PM
+AA-4307-ORD-DTW,Arrival gate,D28
+AA-616-DFW-DTW,Scheduled departure,2011-12-01 9:05 AM
+AA-616-DFW-DTW,Actual departure,2011-12-01 10:10 AM
+AA-616-DFW-DTW,Departure gate,D37
+AA-616-DFW-DTW,Scheduled arrival,2011-12-01 12:35 PM
+AA-616-DFW-DTW,Actual arrival,2011-12-01 1:27 PM
+AA-616-DFW-DTW,Arrival gate,D32
+AA-431-MIA-SFO,Scheduled departure,2011-12-01 8:35 AM
+AA-431-MIA-SFO,Actual departure,2011-12-01 8:51 AM
+AA-431-MIA-SFO,Departure gate,E9
+AA-431-MIA-SFO,Scheduled arrival,2011-12-01 11:50 AM
+AA-431-MIA-SFO,Actual arrival,2011-12-01 11:44 AM
+AA-431-MIA-SFO,Arrival gate,57
+AA-3756-ORD-SLC,Scheduled departure,2011-12-01 12:15 PM
+AA-3756-ORD-SLC,Actual departure,2011-12-01 12:41 PM
+AA-3756-ORD-SLC,Departure gate,G19
+AA-3756-ORD-SLC,Scheduled arrival,2011-12-01 2:45 PM
+AA-3756-ORD-SLC,Actual arrival,2011-12-01 2:50 PM
+AA-3756-ORD-SLC,Arrival gate,A3
+AA-2050-ORD-MIA,Scheduled departure,2011-12-01 10:40 AM
+AA-2050-ORD-MIA,Actual departure,2011-12-01 11:05 AM
+AA-2050-ORD-MIA,Departure gate,H15
+AA-2050-ORD-MIA,Scheduled arrival,2011-12-01 2:45 PM
+AA-2050-ORD-MIA,Actual arrival,2011-12-01 2:46 PM
+AA-2050-ORD-MIA,Arrival gate,D1
+AA-3804-PHL-ORD,Scheduled departure,2011-12-01 2:35 PM
+AA-3804-PHL-ORD,Actual departure,2011-12-01 2:44 PM
+AA-3804-PHL-ORD,Departure gate,A7
+AA-3804-PHL-ORD,Scheduled arrival,2011-12-01 4:05 PM
+AA-3804-PHL-ORD,Actual arrival,2011-12-01 3:43 PM
+AA-3804-PHL-ORD,Arrival gate,H3A
+AA-1664-MIA-ATL,Scheduled departure,2011-12-01 10:15 AM
+AA-1664-MIA-ATL,Actual departure,2011-12-01 10:18 AM
+AA-1664-MIA-ATL,Departure gate,D1
+AA-1664-MIA-ATL,Scheduled arrival,2011-12-01 12:10 PM
+AA-1664-MIA-ATL,Actual arrival,2011-12-01 11:56 AM
+AA-1664-MIA-ATL,Arrival gate,T11
+AA-789-ORD-DEN,Scheduled departure,2011-12-01 1:05 PM
+AA-789-ORD-DEN,Actual departure,2011-12-01 1:19 PM
+AA-789-ORD-DEN,Departure gate,H11A
+AA-789-ORD-DEN,Scheduled arrival,2011-12-01 2:35 PM
+AA-789-ORD-DEN,Actual arrival,2011-12-01 3:13 PM
+AA-789-ORD-DEN,Arrival gate,A49
+AA-1733-ORD-PHX,Scheduled departure,2011-12-01 7:45 PM
+AA-1733-ORD-PHX,Actual departure,2011-12-01 7:58 PM
+AA-1733-ORD-PHX,Departure gate,K5
+AA-1733-ORD-PHX,Scheduled arrival,2011-12-01 10:30 PM
+AA-1733-ORD-PHX,Arrival gate,6
+AA-4277-CVG-JFK,Scheduled departure,2011-12-01 12:10 PM
+AA-4277-CVG-JFK,Actual departure,2011-12-01 12:10 PM
+AA-4277-CVG-JFK,Departure gate,1
+AA-4277-CVG-JFK,Scheduled arrival,2011-12-01 2:15 PM
+AA-4277-CVG-JFK,Actual arrival,2011-12-01 1:43 PM
+AA-4277-CVG-JFK,Arrival gate,32G
+AA-2312-DFW-DTW,Scheduled departure,2011-12-01 8:25 PM
+AA-2312-DFW-DTW,Departure gate,C39
+AA-2312-DFW-DTW,Scheduled arrival,2011-12-01 11:50 PM
+AA-2312-DFW-DTW,Arrival gate,D32
+AA-85-JFK-SFO,Scheduled departure,2011-12-01 3:05 PM
+AA-85-JFK-SFO,Actual departure,2011-12-01 3:36 PM
+AA-85-JFK-SFO,Departure gate,39
+AA-85-JFK-SFO,Scheduled arrival,2011-12-01 6:30 PM
+AA-85-JFK-SFO,Actual arrival,2011-12-01 6:43 PM
+AA-85-JFK-SFO,Arrival gate,56A
+AA-404-MIA-MCO,Scheduled departure,2011-12-01 6:45 AM
+AA-404-MIA-MCO,Actual departure,2011-12-01 6:57 AM
+AA-404-MIA-MCO,Departure gate,E5
+AA-404-MIA-MCO,Scheduled arrival,2011-12-01 7:45 AM
+AA-404-MIA-MCO,Actual arrival,2011-12-01 7:40 AM
+AA-404-MIA-MCO,Arrival gate,15
+AA-446-DFW-PHL,Scheduled departure,2011-12-01 11:50 AM
+AA-446-DFW-PHL,Actual departure,2011-12-01 12:12 PM
+AA-446-DFW-PHL,Departure gate,D16
+AA-446-DFW-PHL,Scheduled arrival,2011-12-01 3:50 PM
+AA-446-DFW-PHL,Actual arrival,2011-12-01 4:09 PM
+AA-446-DFW-PHL,Arrival gate,A9
+AA-2268-PHX-ORD,Scheduled departure,2011-12-01 7:15 AM
+AA-2268-PHX-ORD,Actual departure,2011-12-01 7:22 AM
+AA-2268-PHX-ORD,Departure gate,6
+AA-2268-PHX-ORD,Scheduled arrival,2011-12-01 11:35 AM
+AA-2268-PHX-ORD,Actual arrival,2011-12-01 11:06 AM
+AA-2268-PHX-ORD,Arrival gate,H15
+AA-4344-ORD-DTW,Scheduled departure,2011-12-01 11:45 AM
+AA-4344-ORD-DTW,Actual departure,2011-12-01 12:13 PM
+AA-4344-ORD-DTW,Departure gate,G5
+AA-4344-ORD-DTW,Scheduled arrival,2011-12-01 2:00 PM
+AA-4344-ORD-DTW,Actual arrival,2011-12-01 2:10 PM
+AA-4344-ORD-DTW,Arrival gate,D28
+AA-484-DFW-MIA,Scheduled departure,2011-12-01 4:15 PM
+AA-484-DFW-MIA,Actual departure,2011-12-01 4:29 PM
+AA-484-DFW-MIA,Departure gate,D18
+AA-484-DFW-MIA,Scheduled arrival,2011-12-01 7:55 PM
+AA-484-DFW-MIA,Actual arrival,2011-12-01 7:39 PM
+AA-484-DFW-MIA,Arrival gate,D43
+AA-3979-CVG-ORD,Scheduled departure,2011-12-01 7:30 AM
+AA-3979-CVG-ORD,Actual departure,2011-12-01 8:04 AM
+AA-3979-CVG-ORD,Departure gate,1
+AA-3979-CVG-ORD,Scheduled arrival,2011-12-01 8:00 AM
+AA-3979-CVG-ORD,Actual arrival,2011-12-01 8:06 AM
+AA-3979-CVG-ORD,Arrival gate,G10
+AA-3063-SLC-LAX,Scheduled departure,2011-12-01 8:20 PM
+AA-3063-SLC-LAX,Actual departure,2011-12-01 8:39 PM
+AA-3063-SLC-LAX,Departure gate,A3
+AA-3063-SLC-LAX,Scheduled arrival,2011-12-01 9:20 PM
+AA-3063-SLC-LAX,Arrival gate,44I
+AA-3859-IAH-ORD,Scheduled departure,2011-12-01 7:10 AM
+AA-3859-IAH-ORD,Actual departure,2011-12-01 7:16 AM
+AA-3859-IAH-ORD,Departure gate,A29
+AA-3859-IAH-ORD,Scheduled arrival,2011-12-01 9:40 AM
+AA-3859-IAH-ORD,Actual arrival,2011-12-01 9:32 AM
+AA-3859-IAH-ORD,Arrival gate,H5
+AA-3842-MSP-ORD,Scheduled departure,2011-12-01 6:00 AM
+AA-3842-MSP-ORD,Actual departure,2011-12-01 6:56 AM
+AA-3842-MSP-ORD,Departure gate,E14
+AA-3842-MSP-ORD,Scheduled arrival,2011-12-01 7:30 AM
+AA-3842-MSP-ORD,Actual arrival,2011-12-01 7:51 AM
+AA-3842-MSP-ORD,Arrival gate,G8
+AA-1544-SAN-ORD,Scheduled departure,2011-12-01 11:25 AM
+AA-1544-SAN-ORD,Actual departure,2011-12-01 11:40 AM
+AA-1544-SAN-ORD,Departure gate,27
+AA-1544-SAN-ORD,Scheduled arrival,2011-12-01 5:25 PM
+AA-1544-SAN-ORD,Actual arrival,2011-12-01 4:56 PM
+AA-1544-SAN-ORD,Arrival gate,H17
+AA-649-ORD-SNA,Scheduled departure,2011-12-01 1:30 PM
+AA-649-ORD-SNA,Departure gate,H10
+AA-649-ORD-SNA,Scheduled arrival,2011-12-01 3:50 PM
+AA-649-ORD-SNA,Arrival gate,7
+AA-1640-MIA-MCO,Scheduled departure,2011-12-01 6:30 PM
+AA-1640-MIA-MCO,Departure gate,E5
+AA-1640-MIA-MCO,Scheduled arrival,2011-12-01 7:25 PM
+AA-1640-MIA-MCO,Arrival gate,14
+AA-518-MIA-JFK,Scheduled departure,2011-12-01 6:40 AM
+AA-518-MIA-JFK,Actual departure,2011-12-01 6:54 AM
+AA-518-MIA-JFK,Departure gate,D22
+AA-518-MIA-JFK,Scheduled arrival,2011-12-01 9:25 AM
+AA-518-MIA-JFK,Actual arrival,2011-12-01 9:28 AM
+AA-518-MIA-JFK,Arrival gate,6
+AA-2525-DFW-MIA,Scheduled departure,2011-12-01 7:25 AM
+AA-2525-DFW-MIA,Actual departure,2011-12-01 7:39 AM
+AA-2525-DFW-MIA,Departure gate,C4
+AA-2525-DFW-MIA,Scheduled arrival,2011-12-01 11:10 AM
+AA-2525-DFW-MIA,Actual arrival,2011-12-01 11:06 AM
+AA-2525-DFW-MIA,Arrival gate,D1
+AA-1279-DFW-PHX,Scheduled departure,2011-12-01 1:00 PM
+AA-1279-DFW-PHX,Actual departure,2011-12-01 2:04 PM
+AA-1279-DFW-PHX,Departure gate,C36
+AA-1279-DFW-PHX,Scheduled arrival,2011-12-01 2:35 PM
+AA-1279-DFW-PHX,Actual arrival,2011-12-01 3:30 PM
+AA-1279-DFW-PHX,Arrival gate,4
+AA-1522-SFO-ORD,Scheduled departure,2011-12-01 11:55 PM
+AA-1522-SFO-ORD,Departure gate,57
+AA-1522-SFO-ORD,Scheduled arrival,2011-12-01 5:50 AM
+AA-1522-SFO-ORD,Arrival gate,H9
+AA-1434-DFW-MCO,Scheduled departure,2011-12-01 7:15 AM
+AA-1434-DFW-MCO,Actual departure,2011-12-01 7:21 AM
+AA-1434-DFW-MCO,Departure gate,D34
+AA-1434-DFW-MCO,Scheduled arrival,2011-12-01 10:35 AM
+AA-1434-DFW-MCO,Actual arrival,2011-12-01 10:36 AM
+AA-1434-DFW-MCO,Arrival gate,14
+AA-59-JFK-SFO,Scheduled departure,2011-12-01 7:10 AM
+AA-59-JFK-SFO,Actual departure,2011-12-01 7:39 AM
+AA-59-JFK-SFO,Departure gate,36
+AA-59-JFK-SFO,Scheduled arrival,2011-12-01 10:45 AM
+AA-59-JFK-SFO,Actual arrival,2011-12-01 11:12 AM
+AA-59-JFK-SFO,Arrival gate,58B
+AA-415-BOS-ORD,Scheduled departure,2011-12-01 8:35 AM
+AA-415-BOS-ORD,Actual departure,2011-12-01 8:56 AM
+AA-415-BOS-ORD,Departure gate,B29
+AA-415-BOS-ORD,Scheduled arrival,2011-12-01 10:40 AM
+AA-415-BOS-ORD,Actual arrival,2011-12-01 10:16 AM
+AA-415-BOS-ORD,Arrival gate,H12
+AA-222-LAX-BOS,Scheduled departure,2011-12-01 7:10 AM
+AA-222-LAX-BOS,Actual departure,2011-12-01 7:31 AM
+AA-222-LAX-BOS,Departure gate,47A
+AA-222-LAX-BOS,Scheduled arrival,2011-12-01 3:30 PM
+AA-222-LAX-BOS,Actual arrival,2011-12-01 3:14 PM
+AA-222-LAX-BOS,Arrival gate,B36
+AA-3823-LAX-DEN,Scheduled departure,2011-12-01 9:00 PM
+AA-3823-LAX-DEN,Departure gate,44F
+AA-3823-LAX-DEN,Scheduled arrival,2011-12-01 12:15 AM
+AA-3823-LAX-DEN,Arrival gate,A49
+AA-1165-JFK-MIA,Scheduled departure,2011-12-01 6:59 AM
+AA-1165-JFK-MIA,Actual departure,2011-12-01 7:22 AM
+AA-1165-JFK-MIA,Departure gate,8
+AA-1165-JFK-MIA,Scheduled arrival,2011-12-01 10:34 AM
+AA-1165-JFK-MIA,Actual arrival,2011-12-01 10:04 AM
+AA-1165-JFK-MIA,Arrival gate,D21
+AA-3786-IAH-ORD,Scheduled departure,2011-12-01 4:00 PM
+AA-3786-IAH-ORD,Actual departure,2011-12-01 4:12 PM
+AA-3786-IAH-ORD,Departure gate,A29
+AA-3786-IAH-ORD,Scheduled arrival,2011-12-01 6:40 PM
+AA-3786-IAH-ORD,Actual arrival,2011-12-01 6:15 PM
+AA-3786-IAH-ORD,Arrival gate,G13
+AA-4330-CVG-ORD,Scheduled departure,2011-12-01 3:35 PM
+AA-4330-CVG-ORD,Actual departure,2011-12-01 3:36 PM
+AA-4330-CVG-ORD,Departure gate,5
+AA-4330-CVG-ORD,Scheduled arrival,2011-12-01 4:00 PM
+AA-4330-CVG-ORD,Actual arrival,2011-12-01 3:33 PM
+AA-4330-CVG-ORD,Arrival gate,G1B
+AA-3468-CVG-MIA,Scheduled departure,2011-12-01 7:00 AM
+AA-3468-CVG-MIA,Actual departure,2011-12-01 7:25 AM
+AA-3468-CVG-MIA,Departure gate,5
+AA-3468-CVG-MIA,Scheduled arrival,2011-12-01 9:55 AM
+AA-3468-CVG-MIA,Actual arrival,2011-12-01 9:45 AM
+AA-3468-CVG-MIA,Arrival gate,D60
+AA-204-LAX-MCO,Scheduled departure,2011-12-01 11:25 PM
+AA-204-LAX-MCO,Departure gate,45
+AA-204-LAX-MCO,Scheduled arrival,2011-12-01 6:55 AM
+AA-204-LAX-MCO,Arrival gate,TBA
+AA-466-IAH-MIA,Scheduled departure,2011-12-01 6:00 AM
+AA-466-IAH-MIA,Actual departure,2011-12-01 6:08 AM
+AA-466-IAH-MIA,Departure gate,A27
+AA-466-IAH-MIA,Scheduled arrival,2011-12-01 9:20 AM
+AA-466-IAH-MIA,Actual arrival,2011-12-01 9:05 AM
+AA-466-IAH-MIA,Arrival gate,D1
+AA-3-JFK-LAX,Scheduled departure,2011-12-01 12:00 PM
+AA-3-JFK-LAX,Actual departure,2011-12-01 12:11 PM
+AA-3-JFK-LAX,Departure gate,44
+AA-3-JFK-LAX,Scheduled arrival,2011-12-01 3:15 PM
+AA-3-JFK-LAX,Actual arrival,2011-12-01 3:16 PM
+AA-3-JFK-LAX,Arrival gate,48B
+AA-1007-MIA-PHX,Scheduled departure,2011-12-01 4:55 PM
+AA-1007-MIA-PHX,Actual departure,2011-12-01 5:08 PM
+AA-1007-MIA-PHX,Departure gate,D5
+AA-1007-MIA-PHX,Scheduled arrival,2011-12-01 8:05 PM
+AA-1007-MIA-PHX,Actual arrival,2011-12-01 7:55 PM
+AA-1007-MIA-PHX,Arrival gate,4
+AA-271-MIA-LAX,Scheduled departure,2011-12-01 11:35 AM
+AA-271-MIA-LAX,Actual departure,2011-12-01 11:52 AM
+AA-271-MIA-LAX,Departure gate,D51
+AA-271-MIA-LAX,Scheduled arrival,2011-12-01 2:25 PM
+AA-271-MIA-LAX,Actual arrival,2011-12-01 2:27 PM
+AA-271-MIA-LAX,Arrival gate,46A
+AA-643-MIA-ORD,Scheduled departure,2011-12-01 7:10 AM
+AA-643-MIA-ORD,Actual departure,2011-12-01 7:30 AM
+AA-643-MIA-ORD,Departure gate,D3
+AA-643-MIA-ORD,Scheduled arrival,2011-12-01 9:35 AM
+AA-643-MIA-ORD,Actual arrival,2011-12-01 9:31 AM
+AA-643-MIA-ORD,Arrival gate,K9
+AA-4198-ORD-CLE,Scheduled departure,2011-12-01 10:40 AM
+AA-4198-ORD-CLE,Actual departure,2011-12-01 10:54 AM
+AA-4198-ORD-CLE,Departure gate,H2
+AA-4198-ORD-CLE,Scheduled arrival,2011-12-01 12:55 PM
+AA-4198-ORD-CLE,Actual arrival,2011-12-01 12:50 PM
+AA-4198-ORD-CLE,Arrival gate,A1
+AA-400-DFW-JFK,Scheduled departure,2011-12-01 10:40 AM
+AA-400-DFW-JFK,Actual departure,2011-12-01 11:01 AM
+AA-400-DFW-JFK,Departure gate,D18
+AA-400-DFW-JFK,Scheduled arrival,2011-12-01 2:59 PM
+AA-400-DFW-JFK,Actual arrival,2011-12-01 3:04 PM
+AA-400-DFW-JFK,Arrival gate,33
+AA-1886-BOS-MIA,Scheduled departure,2011-12-01 10:45 AM
+AA-1886-BOS-MIA,Actual departure,2011-12-01 10:55 AM
+AA-1886-BOS-MIA,Departure gate,B34
+AA-1886-BOS-MIA,Scheduled arrival,2011-12-01 2:20 PM
+AA-1886-BOS-MIA,Actual arrival,2011-12-01 1:40 PM
+AA-1886-BOS-MIA,Arrival gate,D45
+AA-1917-JFK-MCO,Scheduled departure,2011-12-01 2:55 PM
+AA-1917-JFK-MCO,Actual departure,2011-12-01 3:27 PM
+AA-1917-JFK-MCO,Departure gate,40
+AA-1917-JFK-MCO,Scheduled arrival,2011-12-01 5:55 PM
+AA-1917-JFK-MCO,Actual arrival,2011-12-01 5:43 PM
+AA-1917-JFK-MCO,Arrival gate,12
+AA-3809-PHX-LAX,Scheduled departure,2011-12-01 6:00 AM
+AA-3809-PHX-LAX,Actual departure,2011-12-01 6:10 AM
+AA-3809-PHX-LAX,Departure gate,2
+AA-3809-PHX-LAX,Scheduled arrival,2011-12-01 6:40 AM
+AA-3809-PHX-LAX,Actual arrival,2011-12-01 6:19 AM
+AA-3809-PHX-LAX,Arrival gate,44F
+AA-2957-DFW-CVG,Scheduled departure,2011-12-01 7:55 AM
+AA-2957-DFW-CVG,Actual departure,2011-12-01 8:04 AM
+AA-2957-DFW-CVG,Departure gate,B25
+AA-2957-DFW-CVG,Scheduled arrival,2011-12-01 11:05 AM
+AA-2957-DFW-CVG,Actual arrival,2011-12-01 11:01 AM
+AA-2957-DFW-CVG,Arrival gate,5
+UA-1500-IAH-GUA,Scheduled departure,2011-12-01 8:55 AM
+UA-1500-IAH-GUA,Actual departure,2011-12-01 9:16 AM
+UA-1500-IAH-GUA,Departure gate,E16
+UA-1500-IAH-GUA,Scheduled arrival,2011-12-01 11:45 AM
+UA-1500-IAH-GUA,Actual arrival,2011-12-01 11:56 AM
+UA-1500-IAH-GUA,Arrival gate,--
+UA-3515-IAD-MSP,Scheduled departure,2011-12-01 8:15 AM
+UA-3515-IAD-MSP,Actual departure,2011-12-01 8:12 AM
+UA-3515-IAD-MSP,Departure gate,D20
+UA-3515-IAD-MSP,Scheduled arrival,2011-12-01 10:06 AM
+UA-3515-IAD-MSP,Actual arrival,2011-12-01 9:56 AM
+UA-3515-IAD-MSP,Arrival gate,E10
+UA-664-ORD-PHL,Scheduled departure,2011-12-01 1:33 PM
+UA-664-ORD-PHL,Actual departure,2011-12-01 1:31 PM
+UA-664-ORD-PHL,Departure gate,C30
+UA-664-ORD-PHL,Scheduled arrival,2011-12-01 4:31 PM
+UA-664-ORD-PHL,Actual arrival,2011-12-01 4:23 PM
+UA-664-ORD-PHL,Arrival gate,D9
+UA-414-LAX-SFO,Scheduled departure,2011-12-01 6:00 AM
+UA-414-LAX-SFO,Actual departure,2011-12-01 5:56 AM
+UA-414-LAX-SFO,Departure gate,73
+UA-414-LAX-SFO,Scheduled arrival,2011-12-01 7:23 AM
+UA-414-LAX-SFO,Actual arrival,2011-12-01 7:17 AM
+UA-414-LAX-SFO,Arrival gate,85
+UA-257-JFK-SFO,Scheduled departure,2011-12-01 2:30 PM
+UA-257-JFK-SFO,Actual departure,2011-12-01 2:26 PM
+UA-257-JFK-SFO,Departure gate,9
+UA-257-JFK-SFO,Scheduled arrival,2011-12-01 6:15 PM
+UA-257-JFK-SFO,Actual arrival,2011-12-01 5:42 PM
+UA-257-JFK-SFO,Arrival gate,80
+UA-62-IAH-EWR,Scheduled departure,2011-12-01 2:30 PM
+UA-62-IAH-EWR,Actual departure,2011-12-01 2:48 PM
+UA-62-IAH-EWR,Departure gate,C-44
+UA-62-IAH-EWR,Scheduled arrival,2011-12-01 7:03 PM
+UA-62-IAH-EWR,Actual arrival,2011-12-01 7:10 PM
+UA-62-IAH-EWR,Arrival gate,C94
+UA-843-LAX-ORD,Scheduled departure,2011-12-01 1:55 PM
+UA-843-LAX-ORD,Actual departure,2011-12-01 2:10 PM
+UA-843-LAX-ORD,Departure gate,73
+UA-843-LAX-ORD,Scheduled arrival,2011-12-01 7:53 PM
+UA-843-LAX-ORD,Actual arrival,2011-12-01 7:58 PM
+UA-843-LAX-ORD,Arrival gate,C18
+UA-248-PHX-ORD,Scheduled departure,2011-12-01 12:57 PM
+UA-248-PHX-ORD,Actual departure,2011-12-01 12:57 PM
+UA-248-PHX-ORD,Departure gate,3
+UA-248-PHX-ORD,Scheduled arrival,2011-12-01 5:15 PM
+UA-248-PHX-ORD,Actual arrival,2011-12-01 4:59 PM
+UA-248-PHX-ORD,Arrival gate,B14
+UA-397-JFK-SFO,Scheduled departure,2011-12-01 8:00 AM
+UA-397-JFK-SFO,Actual departure,2011-12-01 8:29 AM
+UA-397-JFK-SFO,Departure gate,12
+UA-397-JFK-SFO,Scheduled arrival,2011-12-01 11:55 AM
+UA-397-JFK-SFO,Actual arrival,2011-12-01 11:58 AM
+UA-397-JFK-SFO,Arrival gate,83
+UA-2704-DTW-PHX,Scheduled departure,2011-12-01 11:15 AM
+UA-2704-DTW-PHX,Actual departure,2011-12-01 11:15 AM
+UA-2704-DTW-PHX,Departure gate,D14
+UA-2704-DTW-PHX,Scheduled arrival,2011-12-01 1:40 PM
+UA-2704-DTW-PHX,Actual arrival,2011-12-01 2:00 PM
+UA-2704-DTW-PHX,Arrival gate,A6
+UA-2515-DFW-CLT,Scheduled departure,2011-12-01 7:05 AM
+UA-2515-DFW-CLT,Actual departure,2011-12-01 7:05 AM
+UA-2515-DFW-CLT,Departure gate,E36
+UA-2515-DFW-CLT,Scheduled arrival,2011-12-01 10:31 AM
+UA-2515-DFW-CLT,Actual arrival,2011-12-01 10:47 AM
+UA-2515-DFW-CLT,Arrival gate,B10
+UA-3373-IAD-PHL,Scheduled departure,2011-12-01 8:29 AM
+UA-3373-IAD-PHL,Actual departure,2011-12-01 8:26 AM
+UA-3373-IAD-PHL,Departure gate,A5D
+UA-3373-IAD-PHL,Scheduled arrival,2011-12-01 9:24 AM
+UA-3373-IAD-PHL,Actual arrival,2011-12-01 9:13 AM
+UA-3373-IAD-PHL,Arrival gate,D7
+UA-2906-PHL-MCO,Scheduled departure,2011-12-01 3:50 PM
+UA-2906-PHL-MCO,Actual departure,2011-12-01 4:28 PM
+UA-2906-PHL-MCO,Departure gate,B13
+UA-2906-PHL-MCO,Scheduled arrival,2011-12-01 6:23 PM
+UA-2906-PHL-MCO,Actual arrival,2011-12-01 6:38 PM
+UA-2906-PHL-MCO,Arrival gate,58
+UA-938-DEN-ORD,Scheduled departure,2011-12-01 4:16 PM
+UA-938-DEN-ORD,Actual departure,2011-12-01 4:15 PM
+UA-938-DEN-ORD,Departure gate,B36
+UA-938-DEN-ORD,Scheduled arrival,2011-12-01 7:35 PM
+UA-938-DEN-ORD,Actual arrival,2011-12-01 7:36 PM
+UA-938-DEN-ORD,Arrival gate,C19
+UA-3099-PHX-PHL,Scheduled departure,2011-12-01 11:55 AM
+UA-3099-PHX-PHL,Actual departure,2011-12-01 11:55 AM
+UA-3099-PHX-PHL,Departure gate,B14
+UA-3099-PHX-PHL,Scheduled arrival,2011-12-01 6:17 PM
+UA-3099-PHX-PHL,Actual arrival,2011-12-01 5:38 PM
+UA-3099-PHX-PHL,Arrival gate,A12
+UA-3925-IAD-ORF,Scheduled departure,2011-12-01 8:41 AM
+UA-3925-IAD-ORF,Actual departure,2011-12-01 8:42 AM
+UA-3925-IAD-ORF,Departure gate,A2G
+UA-3925-IAD-ORF,Scheduled arrival,2011-12-01 9:54 AM
+UA-3925-IAD-ORF,Actual arrival,2011-12-01 9:43 AM
+UA-3925-IAD-ORF,Arrival gate,--
+UA-5487-SFO-MRY,Scheduled departure,2011-12-01 10:39 AM
+UA-5487-SFO-MRY,Actual departure,2011-12-01 10:33 AM
+UA-5487-SFO-MRY,Departure gate,87A
+UA-5487-SFO-MRY,Scheduled arrival,2011-12-01 11:19 AM
+UA-5487-SFO-MRY,Actual arrival,2011-12-01 11:21 AM
+UA-5487-SFO-MRY,Arrival gate,--
+UA-3050-PHX-CLT,Scheduled departure,2011-12-01 11:05 AM
+UA-3050-PHX-CLT,Actual departure,2011-12-01 11:30 AM
+UA-3050-PHX-CLT,Departure gate,A30
+UA-3050-PHX-CLT,Scheduled arrival,2011-12-01 4:57 PM
+UA-3050-PHX-CLT,Actual arrival,2011-12-01 5:05 PM
+UA-3050-PHX-CLT,Arrival gate,B5
+UA-828-SFO-ORD,Scheduled departure,2011-12-01 11:08 PM
+UA-828-SFO-ORD,Actual departure,2011-12-01 11:08 PM
+UA-828-SFO-ORD,Departure gate,75
+UA-828-SFO-ORD,Scheduled arrival,2011-12-01 5:11 AM
+UA-828-SFO-ORD,Actual arrival,2011-12-01 5:11 AM
+UA-828-SFO-ORD,Arrival gate,C9
+UA-2830-MCO-CLT,Scheduled departure,2011-12-01 3:27 PM
+UA-2830-MCO-CLT,Actual departure,2011-12-01 3:27 PM
+UA-2830-MCO-CLT,Departure gate,58
+UA-2830-MCO-CLT,Scheduled arrival,2011-12-01 5:05 PM
+UA-2830-MCO-CLT,Actual arrival,2011-12-01 5:17 PM
+UA-2830-MCO-CLT,Arrival gate,C18
+UA-37-EWR-MCO,Scheduled departure,2011-12-01 1:29 PM
+UA-37-EWR-MCO,Actual departure,2011-12-01 1:48 PM
+UA-37-EWR-MCO,Departure gate,C126
+UA-37-EWR-MCO,Scheduled arrival,2011-12-01 4:17 PM
+UA-37-EWR-MCO,Actual arrival,2011-12-01 4:17 PM
+UA-37-EWR-MCO,Arrival gate,39
+UA-37-EDI-EWR,Scheduled departure,2011-12-01 9:05 AM
+UA-37-EDI-EWR,Actual departure,2011-12-01 8:52 AM
+UA-37-EDI-EWR,Departure gate,--
+UA-37-EDI-EWR,Scheduled arrival,2011-12-01 11:53 AM
+UA-37-EDI-EWR,Actual arrival,2011-12-01 12:09 PM
+UA-37-EDI-EWR,Arrival gate,B65
+UA-2708-EWR-CLT,Scheduled departure,2011-12-01 2:55 PM
+UA-2708-EWR-CLT,Actual departure,2011-12-01 2:55 PM
+UA-2708-EWR-CLT,Departure gate,A37
+UA-2708-EWR-CLT,Scheduled arrival,2011-12-01 4:53 PM
+UA-2708-EWR-CLT,Actual arrival,2011-12-01 4:44 PM
+UA-2708-EWR-CLT,Arrival gate,C5
+UA-233-LAX-JFK,Scheduled departure,2011-12-01 4:25 PM
+UA-233-LAX-JFK,Actual departure,2011-12-01 4:25 PM
+UA-233-LAX-JFK,Departure gate,76
+UA-233-LAX-JFK,Scheduled arrival,2011-12-01 12:29 AM
+UA-233-LAX-JFK,Actual arrival,2011-12-01 12:29 AM
+UA-233-LAX-JFK,Arrival gate,9
+UA-2726-FLL-PHL,Scheduled departure,2011-12-01 4:00 PM
+UA-2726-FLL-PHL,Actual departure,2011-12-01 4:00 PM
+UA-2726-FLL-PHL,Departure gate,E3
+UA-2726-FLL-PHL,Scheduled arrival,2011-12-01 6:46 PM
+UA-2726-FLL-PHL,Actual arrival,2011-12-01 6:28 PM
+UA-2726-FLL-PHL,Arrival gate,B5
+UA-2945-PHL-CLT,Scheduled departure,2011-12-01 12:00 AM
+UA-2945-PHL-CLT,Actual departure,2011-12-01 3:11 AM
+UA-2945-PHL-CLT,Departure gate,B9
+UA-2945-PHL-CLT,Scheduled arrival,2011-12-01 1:45 PM
+UA-2945-PHL-CLT,Actual arrival,2011-12-01 1:15 PM
+UA-2945-PHL-CLT,Arrival gate,B9
+UA-6273-YYC-SFO,Scheduled departure,2011-12-01 7:35 AM
+UA-6273-YYC-SFO,Actual departure,2011-12-01 7:27 AM
+UA-6273-YYC-SFO,Departure gate,--
+UA-6273-YYC-SFO,Scheduled arrival,2011-12-01 9:43 AM
+UA-6273-YYC-SFO,Actual arrival,2011-12-01 8:45 AM
+UA-6273-YYC-SFO,Arrival gate,78A
+UA-2314-ATL-PHL,Scheduled departure,2011-12-01 2:55 PM
+UA-2314-ATL-PHL,Actual departure,2011-12-01 2:55 PM
+UA-2314-ATL-PHL,Departure gate,D23
+UA-2314-ATL-PHL,Scheduled arrival,2011-12-01 5:00 PM
+UA-2314-ATL-PHL,Actual arrival,2011-12-01 4:47 PM
+UA-2314-ATL-PHL,Arrival gate,C27
+UA-382-IAD-LAX,Scheduled departure,2011-12-01 12:30 PM
+UA-382-IAD-LAX,Actual departure,2011-12-01 12:35 PM
+UA-382-IAD-LAX,Departure gate,D1
+UA-382-IAD-LAX,Scheduled arrival,2011-12-01 3:19 PM
+UA-382-IAD-LAX,Actual arrival,2011-12-01 3:11 PM
+UA-382-IAD-LAX,Arrival gate,75B
+UA-858-PVG-SFO,Scheduled departure,2011-12-01 1:45 PM
+UA-858-PVG-SFO,Actual departure,2011-12-01 1:32 PM
+UA-858-PVG-SFO,Departure gate,75
+UA-858-PVG-SFO,Scheduled arrival,2011-12-01 8:27 AM
+UA-858-PVG-SFO,Actual arrival,2011-12-01 8:02 AM
+UA-858-PVG-SFO,Arrival gate,100
+UA-854-SFO-IAH,Scheduled departure,2011-12-01 7:53 AM
+UA-854-SFO-IAH,Actual departure,2011-12-01 7:49 AM
+UA-854-SFO-IAH,Departure gate,81
+UA-854-SFO-IAH,Scheduled arrival,2011-12-01 1:39 PM
+UA-854-SFO-IAH,Actual arrival,2011-12-01 1:30 PM
+UA-854-SFO-IAH,Arrival gate,C16
+CO-16-LAX-EWR,Scheduled departure,2011-12-01 10:25 AM
+CO-16-LAX-EWR,Actual departure,2011-12-01 10:20 AM
+CO-16-LAX-EWR,Scheduled arrival,2011-12-01 6:44 PM
+CO-16-LAX-EWR,Actual arrival,2011-12-01 6:34 PM
+CO-1193-EWR-MCO,Scheduled departure,2011-12-01 9:15 AM
+CO-1193-EWR-MCO,Actual departure,2011-12-01 9:14 AM
+CO-1193-EWR-MCO,Scheduled arrival,2011-12-01 12:18 PM
+CO-1193-EWR-MCO,Actual arrival,2011-12-01 12:09 PM
+CO-1614-LAX-IAH,Scheduled departure,2011-12-01 12:30 AM
+CO-1614-LAX-IAH,Actual departure,2011-12-01 12:41 AM
+CO-1614-LAX-IAH,Scheduled arrival,2011-12-01 5:35 AM
+CO-1614-LAX-IAH,Actual arrival,2011-12-01 5:26 AM
+CO-45-EWR-MIA,Scheduled departure,2011-12-01 4:00 PM
+CO-45-EWR-MIA,Actual departure,2011-12-01 3:58 PM
+CO-45-EWR-MIA,Scheduled arrival,2011-12-01 7:05 PM
+CO-45-EWR-MIA,Actual arrival,2011-12-01 6:36 PM
+CO-63-EWR-IAH,Scheduled departure,2011-12-01 5:25 PM
+CO-63-EWR-IAH,Actual departure,2011-12-01 5:22 PM
+CO-63-EWR-IAH,Scheduled arrival,2011-12-01 8:22 PM
+CO-63-EWR-IAH,Actual arrival,2011-12-01 8:03 PM
+CO-50-CLE-EWR,Scheduled departure,2011-12-01 2:55 PM
+CO-50-CLE-EWR,Actual departure,2011-12-01 3:31 PM
+CO-50-CLE-EWR,Scheduled arrival,2011-12-01 4:49 PM
+CO-50-CLE-EWR,Actual arrival,2011-12-01 5:26 PM
+CO-1561-PHX-IAH,Scheduled departure,2011-12-01 8:05 AM
+CO-1561-PHX-IAH,Actual departure,2011-12-01 8:00 AM
+CO-1561-PHX-IAH,Scheduled arrival,2011-12-01 11:35 AM
+CO-1561-PHX-IAH,Actual arrival,2011-12-01 11:32 AM
+CO-47-IAH-LAX,Scheduled departure,2011-12-01 7:10 PM
+CO-47-IAH-LAX,Actual departure,2011-12-01 8:25 PM
+CO-47-IAH-LAX,Scheduled arrival,2011-12-01 8:56 PM
+CO-47-IAH-LAX,Actual arrival,2011-12-01 9:52 PM
+CO-1586-IAH-MCO,Scheduled departure,2011-12-01 7:00 PM
+CO-1586-IAH-MCO,Actual departure,2011-12-01 7:14 PM
+CO-1586-IAH-MCO,Scheduled arrival,2011-12-01 10:15 PM
+CO-1586-IAH-MCO,Actual arrival,2011-12-01 10:29 PM
+CO-1694-LAX-IAH,Scheduled departure,2011-12-01 7:15 PM
+CO-1694-LAX-IAH,Actual departure,2011-12-01 7:15 PM
+CO-1694-LAX-IAH,Scheduled arrival,2011-12-01 12:21 AM
+CO-1694-LAX-IAH,Actual arrival,2011-12-01 12:21 AM
+CO-4888-IAH-DAL,Scheduled departure,2011-12-01 5:30 PM
+CO-4888-IAH-DAL,Actual departure,2011-12-01 5:30 PM
+CO-4888-IAH-DAL,Scheduled arrival,2011-12-01 6:40 PM
+CO-4888-IAH-DAL,Actual arrival,2011-12-01 6:40 PM
+CO-1088-CLE-IAH,Scheduled departure,2011-12-01 8:40 AM
+CO-1088-CLE-IAH,Actual departure,2011-12-01 8:40 AM
+CO-1088-CLE-IAH,Scheduled arrival,2011-12-01 10:54 AM
+CO-1088-CLE-IAH,Actual arrival,2011-12-01 10:56 AM
+CO-58-DEN-IAH,Scheduled departure,2011-12-01 11:25 AM
+CO-58-DEN-IAH,Actual departure,2011-12-01 11:32 AM
+CO-58-DEN-IAH,Scheduled arrival,2011-12-01 2:50 PM
+CO-58-DEN-IAH,Actual arrival,2011-12-01 3:31 PM
+CO-1023-IAH-DEN,Scheduled departure,2011-12-01 11:40 AM
+CO-1023-IAH-DEN,Actual departure,2011-12-01 11:56 AM
+CO-1023-IAH-DEN,Scheduled arrival,2011-12-01 1:17 PM
+CO-1023-IAH-DEN,Actual arrival,2011-12-01 1:14 PM
+CO-1250-MIA-IAH,Scheduled departure,2011-12-01 2:53 PM
+CO-1250-MIA-IAH,Actual departure,2011-12-01 3:01 PM
+CO-1250-MIA-IAH,Scheduled arrival,2011-12-01 4:48 PM
+CO-1250-MIA-IAH,Actual arrival,2011-12-01 4:59 PM
+CO-62-IAH-EWR,Scheduled departure,2011-12-01 2:30 PM
+CO-62-IAH-EWR,Actual departure,2011-12-01 2:48 PM
+CO-62-IAH-EWR,Scheduled arrival,2011-12-01 7:03 PM
+CO-62-IAH-EWR,Actual arrival,2011-12-01 7:10 PM
+CO-52-IAH-LAX,Scheduled departure,2011-12-01 7:35 AM
+CO-52-IAH-LAX,Actual departure,2011-12-01 7:29 AM
+CO-52-IAH-LAX,Scheduled arrival,2011-12-01 9:21 AM
+CO-52-IAH-LAX,Actual arrival,2011-12-01 9:14 AM
+CO-89-IAH-EWR,Scheduled departure,2011-12-01 6:00 AM
+CO-89-IAH-EWR,Actual departure,2011-12-01 6:02 AM
+CO-89-IAH-EWR,Scheduled arrival,2011-12-01 10:20 AM
+CO-89-IAH-EWR,Actual arrival,2011-12-01 10:27 AM
+CO-1090-BOS-IAH,Scheduled departure,2011-12-01 9:45 AM
+CO-1090-BOS-IAH,Actual departure,2011-12-01 10:19 AM
+CO-1090-BOS-IAH,Scheduled arrival,2011-12-01 1:16 PM
+CO-1090-BOS-IAH,Actual arrival,2011-12-01 1:19 PM
